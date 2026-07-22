@@ -43,4 +43,4 @@ Each project demonstrates practical applications of Python, Pandas, Matplotlib, 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/DataSciencePortfolio.git
+   git clone https://github.com/antonette/DataSciencePortfolio.git
