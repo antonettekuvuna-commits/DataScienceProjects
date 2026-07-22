@@ -40,6 +40,12 @@ Each project demonstrates practical applications of Python, Pandas, Matplotlib, 
 
 ---
 
+---
+- [Customer Churn Prediction](./ChurnPrediction)
+- [Nairobi Transport Analysis](./TransportAnalysis)
+- [Expense Tracker](./ExpenseTracker)
+---
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
