@@ -1,19 +1,46 @@
-# Customer Churn Prediction
+# Data Science Portfolio
 
-## Problem
-Businesses lose revenue when customers stop using their services. Predicting churn helps companies take action before losing clients.
+Welcome to my Data Science Portfolio!  
+This repository showcases end-to-end projects in **data collection, cleaning, analysis, modeling, and visualization**.  
+Each project demonstrates practical applications of Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
-## Process
-- Dataset: Telco Customer Churn (Kaggle).
-- Tools: Python, Pandas, Scikit-learn.
-- Steps:
-  1. Data cleaning and preprocessing.
-  2. Train/test split.
-  3. Logistic Regression model.
-  4. Evaluation with accuracy, precision, recall.
+---
 
-## Outcome
-A machine learning model that predicts customer churn with performance metrics.
+## 📂 Projects
 
-## Impact
-Helps businesses identify at-risk customers and reduce churn.
+### 1. Customer Churn Prediction
+- **Goal:** Predict which customers are likely to stop using a service.  
+- **Process:** Data preprocessing, logistic regression modeling, churn distribution visualization.  
+- **Outcome:** Classification report with precision, recall, and F1-score.  
+- **Folder:** [`ChurnPrediction`](./ChurnPrediction)
+
+---
+
+### 2. Nairobi Transport Analysis
+- **Goal:** Analyze traffic congestion patterns in Nairobi.  
+- **Process:** Data exploration, visualization of traffic volume by hour and route.  
+- **Outcome:** Insights into peak congestion times and busiest routes.  
+- **Folder:** [`TransportAnalysis`](./TransportAnalysis)
+
+---
+
+### 3. Expense Tracker
+- **Goal:** Track and visualize personal expenses.  
+- **Process:** Data cleaning, monthly expense aggregation, category breakdown visualization.  
+- **Outcome:** Clear view of spending habits to support better budgeting.  
+- **Folder:** [`ExpenseTracker`](./ExpenseTracker)
+
+---
+
+## 🛠️ Skills Demonstrated
+- **Data Handling:** Pandas, CSV manipulation  
+- **Visualization:** Matplotlib, Seaborn  
+- **Machine Learning:** Logistic Regression (Scikit-learn)  
+- **Reporting:** Markdown documentation, clear conclusions  
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/antonettekuvua-commits/DataSciencePortfolio.git
