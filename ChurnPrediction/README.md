@@ -1,30 +1,20 @@
-# Data Science Portfolio
+# Customer Churn Prediction
 
-Welcome to my Data Science Portfolio!  
-This repository showcases end-to-end projects in **data collection, cleaning, analysis, modeling, and visualization**.  
-Each project demonstrates practical applications of Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+## Overview
+This project predicts customer churn using demographic and service usage data.  
+It demonstrates the full workflow: **data collection, cleaning, modeling, visualization, and conclusion.**
 
----
+## Dataset
+- **File:** Telco-Customer-Churn.csv  
+- Contains customer demographics, service details, and churn status (Yes/No).
 
-## 📂 Projects
+## Steps
+1. **Data Collection:** Load dataset into Pandas.  
+2. **Data Cleaning:** Handle categorical variables with dummy encoding, split features (X) and target (y).  
+3. **Modeling:** Train a Logistic Regression model to classify churn.  
+4. **Visualization:** Plot churn distribution to understand balance of classes.  
+5. **Conclusion:** Identify customers at risk of leaving and suggest retention strategies.
 
-### 1. Customer Churn Prediction
-- **Goal:** Predict which customers are likely to stop using a service.  
-- **Process:** Data preprocessing, logistic regression modeling, churn distribution visualization.  
-- **Outcome:** Classification report with precision, recall, and F1-score.  
-- **Folder:** [`ChurnPrediction`](./ChurnPrediction)
-
-
-
-## 🛠️ Skills Demonstrated
-- **Data Handling:** Pandas, CSV manipulation  
-- **Visualization:** Matplotlib, Seaborn  
-- **Machine Learning:** Logistic Regression (Scikit-learn)  
-- **Reporting:** Markdown documentation, clear conclusions  
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/antonette/DataScienceProjects.git
+## Skills Used
+- Pandas, Matplotlib, Seaborn  
+- Scikit-learn (Logistic Regression, train/test split, classification report)
