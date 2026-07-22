@@ -1,3 +1,19 @@
+## 👩‍💻 About Me
+I am Antonette Kuvuna, an accountant and data science trainee based in Nairobi.  
+My portfolio demonstrates practical applications of machine learning, data visualization, and financial analysis.
+
+## 📂 Featured Projects
+- [Customer Churn Prediction](./ChurnPrediction) → Logistic Regression model to predict churn.
+- [Nairobi Transport Analysis](./TransportAnalysis) → Traffic congestion visualization.
+- [Expense Tracker](./ExpenseTracker) → Personal finance analysis and visualization.
+
+## 🛠️ Skills
+- Python | Pandas | Matplotlib | Seaborn | Scikit-learn
+- Data Cleaning | Visualization | Machine Learning | Financial Analysis
+
+## 📫 Contact
+- Email: antonettekuvuna@gmail.com
+
 # Data Science Portfolio
 
 Welcome to my Data Science Portfolio!  
