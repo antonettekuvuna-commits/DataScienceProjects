@@ -1,19 +1,19 @@
-# Expense Tracker
+# Nairobi Transport Analysis
 
-## Problem
-Individuals often struggle to track daily expenses and manage budgets effectively.
+## Overview
+This project analyzes traffic congestion patterns in Nairobi.  
+It focuses on identifying peak hours and busiest routes using visualization.
 
-## Process
-- Dataset: Self-created CSV with columns (Date, Category, Amount).
-- Tools: Python, Pandas, Matplotlib.
-- Steps:
-  1. Load and clean expense data.
-  2. Group expenses by month.
-  3. Categorize spending (food, transport, rent, etc.).
-  4. Visualize expenses with bar charts.
+## Dataset
+- **File:** nairobi_traffic.csv  
+- Contains route, hour, and traffic volume data.
 
-## Outcome
-A Python script that generates monthly summaries and category breakdowns.
+## Steps
+1. **Data Collection:** Load dataset into Pandas.  
+2. **Data Cleaning:** Check for missing values and ensure correct data types.  
+3. **Visualization:** Plot traffic volume by hour and by route.  
+4. **Conclusion:** Highlight peak congestion times and busiest routes.
 
-## Impact
-Helps users manage personal finances and identify spending habits.
+## Skills Used
+- Pandas for data handling  
+- Matplotlib & Seaborn for visualization
