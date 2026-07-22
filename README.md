@@ -1,5 +1,5 @@
 ## 👩‍💻 About Me
-I am Antonette Kuvuna, an accountant and data science trainee based in Nairobi.  
+I am Antonette Kuvuna, an accountant and data science student based in Nairobi.  
 My portfolio demonstrates practical applications of machine learning, data visualization, and financial analysis.
 
 ## 📂 Featured Projects
