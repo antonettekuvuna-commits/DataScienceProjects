@@ -14,23 +14,7 @@ Each project demonstrates practical applications of Python, Pandas, Matplotlib, 
 - **Outcome:** Classification report with precision, recall, and F1-score.  
 - **Folder:** [`ChurnPrediction`](./ChurnPrediction)
 
----
 
-### 2. Nairobi Transport Analysis
-- **Goal:** Analyze traffic congestion patterns in Nairobi.  
-- **Process:** Data exploration, visualization of traffic volume by hour and route.  
-- **Outcome:** Insights into peak congestion times and busiest routes.  
-- **Folder:** [`TransportAnalysis`](./TransportAnalysis)
-
----
-
-### 3. Expense Tracker
-- **Goal:** Track and visualize personal expenses.  
-- **Process:** Data cleaning, monthly expense aggregation, category breakdown visualization.  
-- **Outcome:** Clear view of spending habits to support better budgeting.  
-- **Folder:** [`ExpenseTracker`](./ExpenseTracker)
-
----
 
 ## 🛠️ Skills Demonstrated
 - **Data Handling:** Pandas, CSV manipulation  
@@ -43,4 +27,4 @@ Each project demonstrates practical applications of Python, Pandas, Matplotlib, 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/antonettekuvuna-commits/DataScienceProjects.git
+   git clone https://github.com/antonette/DataScienceProjects.git
